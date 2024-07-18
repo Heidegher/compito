@@ -45,12 +45,6 @@ li a:hover {
   width: 100%;
 }
 
-.swiper-slide{
-    width: 40%;
-    height: 40%;
-    
-
-}
 .swiper-wrapper{
     height: 150%;
     width: 150%;
@@ -63,18 +57,4 @@ li a:hover {
 }
 .film-card:hover{
    transform: scale(1.1);
-}
-
-.swiper-slide{
-    width: 250px;
-    
-}
-.swiper-button-next, 
-.swiper-button-prev{
-    top: 50%;
-    transform: translateY(-50%);
-    color: white;
-}
-.hide-section{
-    visibility: hidden;
 }
